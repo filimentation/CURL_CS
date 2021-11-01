@@ -1,5 +1,5 @@
 # CURL_CS
-Curl cheatsheat
+Curl cheatsheet
 Credits:
 
 
